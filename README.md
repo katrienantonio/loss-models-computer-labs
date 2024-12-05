@@ -1,12 +1,12 @@
 
-## Loss Models Computer Labs, 2020
+## Loss Models Computer Labs, 2024
 
-by Katrien Antonio and Jonas Crevecoeur
+by Katrien Antonio and Jonas Crevecoeur and Jens Robben
 
-Course materials for the online *Loss Models Computer Labs* in December
-2020.
+Course materials for the *Loss Models Computer Labs* in December
+2024.
 
-📆 December 14 & 16, 2020 <br> ⏲ From 11 am to 1 pm <br> 📌 online
+📆 December, 2024 <br> ⏲ From 11 am to 1 pm <br> 📌 online
 
 Course materials will be posted in the days before the lectures.
 
@@ -161,7 +161,7 @@ if(sum(!(packages %in% installed.packages()[, "Package"]))) {
 <p align="justify">
 
 [Katrien Antonio](https://katrienantonio.github.io/) is professor in
-insurance data science at KU Leuven and associate professor at
+insurance data science at KU Leuven and professor in insurance data science at
 University of Amsterdam. She teaches courses on data science for
 insurance, life and non-life insurance mathematics and loss models.
 Research-wise Katrien puts focus on pricing, reserving and fraud
