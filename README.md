@@ -169,19 +169,6 @@ analytics, as well as mortality dynamics.
 
 </p>
 
-<p align="justify">
-
-*Jonas Crevecoeur* is a post-doctoral researcher in biostatistics at KU
-Leuven. He recently obtained his PhD within the insurance research group
-at KU Leuven and holds the degrees of MSc in Mathematics, MSc in
-Insurance Studies and MSc in Financial and Actuarial Engineering (KU
-Leuven). Before starting the PhD program he worked as an intern with QBE
-Re (Belgium office) where he studied multiline products and copulas.
-Jonas was a PhD fellow of the Research Foundation - Flanders (FWO, PhD
-fellowship fundamental research).
-
-</p>
-
 Happy learning\!
 
 -----
