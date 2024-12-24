@@ -46,7 +46,7 @@ The detailed schedule is subject to small changes.
 |     Session      | Duration      | Description | Lecture material                                                                                                                                                                                                                        |
 | :--------------: | ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |      Day 0       | your own pace | Prework     | sheets prework in [html](https://katrienantonio.github.io/loss-models-2020/sheets/prework_day_0.html) and in [pdf](https://katrienantonio.github.io/loss-models-2020/sheets/prework_day_0.pdf)                                          |
-| December 14 & 16 |               |             | sheets in [html](https://katrienantonio.github.io/loss-models-2020/sheets/loss_models_2020_computer_labs.html) and in [pdf](https://katrienantonio.github.io/workshop-loss-reserv-fraud-2020/sheets/loss_models_2020_computer_labs.pdf) |
+| December 14 & 16 |               |             | sheets in [html](https://katrienantonio.github.io/loss-models-computer-labs/sheets/loss_models_2020_computer_labs.html) and in [pdf](https://katrienantonio.github.io/workshop-loss-reserv-fraud-2020/sheets/loss_models_2020_computer_labs.pdf) |
 
 ##### Loss modelling analytics
 
